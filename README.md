@@ -67,7 +67,7 @@ References:
 35. https://chatgpt.com/share/680163d1-ae7c-800d-98d4-d1aa795c964036
 36. https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.imshow.html
 37. https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.linregress.html
-38. https://dzone.com/articles/python-f-strings-quick-guide#:~:text=Rounding%20Numbers%20With%20F%2DStrings,decimal%20places%20to%20round%20to
+38. https://dzone.com/articles/python-f-strings-quick-guide
 39. https://statisticsbyjim.com/regression/interpret-r-squared-regression/  
 40. https://www.ncl.ac.uk/webtemplate/ask-assets/external/maths-resources/statistics/regression-and-correlation/coefficient-of-determination-r-squared.html
 41. https://python-graph-gallery.com/556-visualize-linear-regression/

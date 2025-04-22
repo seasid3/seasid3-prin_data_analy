@@ -1,61 +1,63 @@
-# Project Title: Principles of Data Analytics Assessment: Tasks
+# Project Title: Principles of Data Analytics Assessment Tasks
 
-## Author: Orla Woods
+## Author: 
+Orla Woods
 
 ## *Description:*
-The Tasks Assignment was assigned by Dr. Ian McLoughlin at the start of the Principles of Data Analytics module of the Higher Diploma in Science in Computing in Data Analytics, running from January to April 2025. Submission date: 04 May 2025.
+The Tasks assignment was assigned by Dr. Ian McLoughlin at the start of the Principles of Data Analytics module of the Higher Diploma in Science in Computing in Data Analytics, running from January to April 2025. Submission date: 04 May 2025.
 
 ## *Tasks:*
 The aim of this assignment is to allow us to demonstrate our learnings from the module. Specifically, the assigned tasks are:
 
 *Task 1: Source the dataset*
-Prior to starting any work, import the modules required for the task (see Requirements below)
-1.1 Import the Iris dataset from the sklearn.datasets module
-1.2 Explain what the load_iris() function returns (own words)
+- Prior to starting any work, import the modules required for the task (see Requirements below)
+- 1.1 Import the Iris dataset from the sklearn.datasets module
+- 1.2 Explain what the load_iris() function returns (own words)
 
 *Task 2: Explore the data structure*
-2.1 Print and explain the shape of the dataset
-2.2 Print and explain the first 5 rows of the data
-2.3 Print and explain the last 5 rows of the data
-2.4 Print and explain the feature names
-2.5 Print and explain the target classes
+Print and explain each of the following:
+- 2.1 The shape of the dataset
+- 2.2 The first 5 rows of the data
+- 2.3 The last 5 rows of the data
+- 2.4 The feature names
+- 2.5 The target classes
 
 *Task 3: Summarize the data*
 For each feature in the dataset, calculate and display:
-3.1 Mean
-3.2 Minimum
-3.3 Maximum
-3.4 Standard deviation
-3.5 Median
+- 3.1 Mean
+- 3.2 Minimum
+- 3.3 Maximum
+- 3.4 Standard deviation
+- 3.5 Median
 
 *Task 4: Vizualize features*
-4.1 Plot histograms for each feature using matplotlib
-4.2 Add appropriate titles and axis labels
-Although I had plotted all three histograms separately, as required, I wanted to see all three histograms on the same axes, so I plotted this also.
+- 4.1 Plot histograms for each feature using matplotlib
+- 4.2 Add appropriate titles and axis labels
+- Although I had plotted all three histograms separately, as required, I wanted to see all three histograms on the same axes, so I plotted this also
 
 *Task 5: Investigate relationships*
-5.1 Create a scatterplot of any two features from the dataset
-5.2 Color-code the three different classes of the scatter point plots
+- 5.1 Create a scatterplot of any two features from the dataset
+- 5.2 Color-code the three different classes of the scatter point plots
 
 *Task 6: Analyze relationship*
-6.1 Using numpy.polyfit, fit a regression line to the scatterplot
+- 6.1 Using numpy.polyfit, fit a regression line to the scatterplot
 
 *Task 7: Analyze class distributions*
-7.1 Create box-plots of the petal lengths for each of the three classes (one plot for each species/class)
-7.2.1 I also created a box-plot showing the petal lengths of all three classes on the same axes 
-There appears to be a distinct advantage to plotting the three classes on the same axes as this allows easy comparison of petal lengths between the three classes/species of Iris. 
+- 7.1 Create box-plots of the petal lengths for each of the three classes (one plot for each species/class)
+- 7.2.1 I also created a box-plot showing the petal lengths of all three classes on the same axes 
+- There appears to be a distinct advantage to plotting the three classes on the same axes as this allows easy comparison of petal lengths between the three classes/species of Iris. 
 
 *Task 8: Compute correlations*
-8.1 Calculate the correlation coefficients between the two features
-8.2 Display the results as a heatmap using matplotlib
+- 8.1 Calculate the correlation coefficients between the two features
+- 8.2 Display the results as a heatmap using matplotlib
 
 *Task 9: Fit a simple linear regression*
-9.1 Calculate the coefficient of determination $R^2$ the two features in Task 5 
-9.2 Re-creating the plot from Task 6 and annotate with the $R^2$ value
+- 9.1 Calculate the coefficient of determination $R^2$ the two features in Task 5 
+- 9.2 Re-creating the plot from Task 6 and annotate with the $R^2$ value
 
 *Task 10: Too many features*
-10.1 Create a pairplot of the dataset using seaborn
-10.2 Explain what the pairplot depicts (own words)
+- 10.1 Create a pairplot of the dataset using seaborn
+- 10.2 Explain what the pairplot depicts (own words)
 
 ## *Technologies:*
 - Python

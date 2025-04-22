@@ -15,7 +15,7 @@ The aim of this assignment is to allow us to demonstrate our learnings from the 
 - 1.2 Explain what the load_iris() function returns (own words)
 
 *Task 2: Explore the data structure*  
-Print and explain each of the following:
+- Print and explain each of the following:
 - 2.1 The shape of the dataset
 - 2.2 The first 5 rows of the data
 - 2.3 The last 5 rows of the data
@@ -23,7 +23,7 @@ Print and explain each of the following:
 - 2.5 The target classes
 
 *Task 3: Summarize the data*  
-For each feature in the dataset, calculate and display:
+- For each feature in the dataset, calculate and display:
 - 3.1 Mean
 - 3.2 Minimum
 - 3.3 Maximum
@@ -76,7 +76,7 @@ The followong are required for the code files to run:
 - seaborn
 
 ## *References:*
-As well as writing the source references into each task's python code file (as comments), they are listed below. Please note that ChatGPT links can take several attempts to load. 
+As well as writing the source references into each task's Jupyter notebook markdown cells, they are listed below. Please note that ChatGPT links can take several attempts to load. 
 
 Module imports:  
 * https://numpy.org/doc/stable/   

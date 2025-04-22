@@ -1,6 +1,6 @@
 # Project Title: Principles of Data Analytics Assessment Tasks
 
-## Author: 
+## *Author:*   
 Orla Woods
 
 ## *Description:*

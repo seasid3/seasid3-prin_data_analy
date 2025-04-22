@@ -14,7 +14,7 @@ The aim of this assignment is to allow us to demonstrate our learnings from the 
 - 1.1 Import the Iris dataset from the sklearn.datasets module
 - 1.2 Explain what the load_iris() function returns (own words)
 
-*Task 2: Explore the data structure*
+*Task 2: Explore the data structure*  
 Print and explain each of the following:
 - 2.1 The shape of the dataset
 - 2.2 The first 5 rows of the data
@@ -22,7 +22,7 @@ Print and explain each of the following:
 - 2.4 The feature names
 - 2.5 The target classes
 
-*Task 3: Summarize the data*
+*Task 3: Summarize the data*  
 For each feature in the dataset, calculate and display:
 - 3.1 Mean
 - 3.2 Minimum
@@ -44,7 +44,7 @@ For each feature in the dataset, calculate and display:
 
 *Task 7: Analyze class distributions*
 - 7.1 Create box-plots of the petal lengths for each of the three classes (one plot for each species/class)
-- 7.2.1 I also created a box-plot showing the petal lengths of all three classes on the same axes 
+- 7.2 I also created a box-plot showing the petal lengths of all three classes on the same axes.  
 - There appears to be a distinct advantage to plotting the three classes on the same axes as this allows easy comparison of petal lengths between the three classes/species of Iris. 
 
 *Task 8: Compute correlations*
@@ -146,6 +146,6 @@ Task 10:
 * https://builtin.com/articles/seaborn-pairplot#:~:text=Seaborn%20Pairplot%20is%20a%20Python%20library%20that%20allows%20you%20to,the%20figure%20size%20and%20styling
 
 ## *Acknowledgements:*
-I would like to take this opportunity to thank Dr. Ian McLoughlin for a brilliant lecture series, it was very clear and interesting. Really looking forward to the next modules. 
+I would like to take this opportunity to thank Dr. Ian McLoughlin for a brilliant lecture series, it was very clear and interesting and I really learned alot. Really enjoying the prospect of bringing this into my work very soon. Really looking forward to the next modules. 
 
 ## END

@@ -118,8 +118,7 @@ Task 7:
 * https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.boxplot.html   
 * https://chatgpt.com/share/67fc2bdb-17c0-800d-8655-b97bfcf787c6  
 * https://www.kaggle.com/code/thabresh/unveiling-iris-flowers-classification-model
-* https://chatgpt.com/share/67fc2810-3464-800d-8e04-b5a831a6b936
-* https://chatgpt.com/c/67fc2ba9-bedc-800d-ab59-14259787117b  
+* https://chatgpt.com/share/67fc2810-3464-800d-8e04-b5a831a6b936 
 
 Task 8:  
 * https://en.wikipedia.org/wiki/Pearson_correlation_coefficient
@@ -129,7 +128,7 @@ Task 8:
 * https://statisticsbyjim.com/basics/correlations/
 * https://matplotlib.org/stable/gallery/images_contours_and_fields/image_annotated_heatmap.html
 * https://www.geeksforgeeks.org/how-to-draw-2d-heatmap-using-matplotlib-in-python/
-* https://chatgpt.com/share/680163d1-ae7c-800d-98d4-d1aa795c964036
+* https://chatgpt.com/share/680163d1-ae7c-800d-98d4-d1aa795c9640
 * https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.imshow.html
 
 Task 9:

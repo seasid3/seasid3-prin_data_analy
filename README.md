@@ -32,9 +32,8 @@ The aim of this assignment is to allow us to demonstrate our learnings from the 
 - 3.5 Median
 
 *Task 4: Vizualize features*
-- 4.1 Plot histograms for each feature using matplotlib
-- 4.2 Add appropriate titles and axis labels
-- Although I had plotted all three histograms separately, as required, I wanted to see all three histograms on the same axes, so I plotted this also
+- 4.1 Plot histograms for each feature using matplotlib and 4.2 Adding appropriate titles and axis labels
+- 4.3 All histograms on one plot: although I had plotted all three histograms separately, as required, I wanted to see all three histograms on the same axes, so I plotted this also
 
 *Task 5: Investigate relationships*
 - 5.1 Create a scatterplot of any two features from the dataset

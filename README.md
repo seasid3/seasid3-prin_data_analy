@@ -94,6 +94,7 @@ Task 2:
 * https://numpy.org/devdocs/reference/generated/numpy.shape.html  
 * https://numpy.org/devdocs/user/absolute_beginners.html  
 * https://www.w3schools.com/python/NumPy/numpy_array_slicing.asp  
+* https://www.w3schools.com/python/pandas/ref_df_head.asp
 
 Task 3:  
 * https://numpy.org/doc/2.2/reference/generated/numpy.mean.html  

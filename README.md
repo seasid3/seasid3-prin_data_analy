@@ -67,7 +67,7 @@ The aim of this assignment is to allow us to demonstrate our learnings from the 
 - Jupyter
 
 ## *Requirements:*
-The followong are required for the code files to run:
+The following modules are required for the code files to run:
 - numpy 
 - matplotlib 
 - scikit-learn 
@@ -146,6 +146,6 @@ Task 10:
 * https://builtin.com/articles/seaborn-pairplot#:~:text=Seaborn%20Pairplot%20is%20a%20Python%20library%20that%20allows%20you%20to,the%20figure%20size%20and%20styling
 
 ## *Acknowledgements:*
-I would like to take this opportunity to thank Dr. Ian McLoughlin for a brilliant lecture series, it was very clear and interesting and I really learned alot. Really enjoying the prospect of bringing this into my work very soon. Really looking forward to the next modules. 
+I would like to take this opportunity to thank Dr. Ian McLoughlin for a brilliant lecture series, it was very clear and interesting and I really learned a lot. Really enjoying the prospect of bringing this into my own work in a pending project. Really looking forward to the next modules. 
 
 ## END

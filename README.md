@@ -7,7 +7,7 @@ Orla Woods
 The Tasks assignment was assigned by Dr. Ian McLoughlin at the start of the Principles of Data Analytics module of the Higher Diploma in Science in Computing in Data Analytics, running from January to April 2025. Submission date: 04 May 2025.
 
 ## *Tasks:*
-The aim of this assignment is to allow us to demonstrate our learnings from the module. Specifically, the assigned tasks are:
+The aim of this assignment is to allow us to demonstrate our learnings from the module. Specifically, the assigned tasks are (laid out in the format they are presented in tasks.ipynb):
 
 *Task 1: Source the dataset*
 - Prior to starting any work, import the modules required for the task (see Requirements below)
@@ -147,6 +147,7 @@ Task 10:
 * https://builtin.com/articles/seaborn-pairplot#:~:text=Seaborn%20Pairplot%20is%20a%20Python%20library%20that%20allows%20you%20to,the%20figure%20size%20and%20styling
 
 ## *Acknowledgements:*
-I would like to take this opportunity to thank Dr. Ian McLoughlin for a brilliant lecture series, it was very clear and interesting and I really learned a lot. Really enjoying the prospect of bringing this into my own work in a pending project. Really looking forward to the next modules. 
+I would like to take this opportunity to thank Dr. Ian McLoughlin for a brilliant lecture series, it was very clear and interesting and I really learned a lot. Really enjoying the prospect of bringing this into my own work in a pending project. 
+Really looking forward to the next modules. 
 
 ## END

@@ -88,7 +88,7 @@ Module imports:
 
 Task 1:  
 * https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html
-* https://chatgpt.com/c/680811fc-5990-800d-b18b-f8aff97b1fc7 
+* https://chatgpt.com/share/68152c0d-33ac-800d-982c-d1e701eb2523
 
 Task 2:  
 * https://numpy.org/devdocs/reference/generated/numpy.shape.html

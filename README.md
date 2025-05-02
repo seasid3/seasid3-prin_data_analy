@@ -15,7 +15,7 @@ The aim of this assignment is to allow us to demonstrate our learnings from the 
 - 1.2 Explain what the load_iris() function returns (own words)
 
 *Task 2: Explore the data structure*  
-- Print and explain each of the following:
+Print and explain each of the following:
 - 2.1 The shape of the dataset
 - 2.2 The first 5 rows of the data
 - 2.3 The last 5 rows of the data
@@ -24,7 +24,7 @@ The aim of this assignment is to allow us to demonstrate our learnings from the 
 - 2.6 I also wanted to see the target class names so I did this
 
 *Task 3: Summarize the data*  
-- For each feature in the dataset, calculate and display:
+For each feature in the dataset, calculate and display:
 - 3.1 Mean
 - 3.2 Minimum
 - 3.3 Maximum
@@ -87,16 +87,19 @@ Module imports:
 * https://seaborn.pydata.org/tutorial/introduction.html  
 
 Task 1:  
-* https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html 
+* https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html
 * https://chatgpt.com/c/680811fc-5990-800d-b18b-f8aff97b1fc7 
 
 Task 2:  
-* https://numpy.org/devdocs/reference/generated/numpy.shape.html  
-* https://numpy.org/devdocs/user/absolute_beginners.html  
-* https://www.w3schools.com/python/NumPy/numpy_array_slicing.asp  
-* https://www.w3schools.com/python/pandas/ref_df_head.asp
+* https://numpy.org/devdocs/reference/generated/numpy.shape.html
+* https://numpy.org/devdocs/user/absolute_beginners.html
+* https://numpy.org/doc/stable/user/basics.indexing.html
+* https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.head.html 
+* https://stackoverflow.com/questions/65615456/where-does-feature-names-is-scikit-learn-come-from
+* https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html  
 
 Task 3:  
+* https://www.geeksforgeeks.org/how-to-access-a-numpy-array-by-column/
 * https://numpy.org/doc/2.2/reference/generated/numpy.mean.html  
 * https://numpy.org/doc/2.2/reference/generated/numpy.min.html  
 * https://numpy.org/doc/2.1/reference/generated/numpy.amax.html  

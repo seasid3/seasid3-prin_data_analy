@@ -109,6 +109,7 @@ Task 3:
 Task 4:  
 * https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.hist.html      
 * https://www.w3schools.com/python/matplotlib_labels.asp  
+* https://matplotlib.org/stable/gallery/color/set_alpha.html
 
 Task 5:  
 * https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html  

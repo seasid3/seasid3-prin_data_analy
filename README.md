@@ -114,6 +114,9 @@ Task 4:
 Task 5:  
 * https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html  
 * https://www.w3schools.com/python/matplotlib_scatter.asp  
+* https://stackoverflow.com/questions/56447079/how-to-set-x-and-y-axis-title
+* https://chatgpt.com/share/68166a40-2d38-800d-add2-a59b392dcc7a
+
 
 Task 6:  
 * https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html  
